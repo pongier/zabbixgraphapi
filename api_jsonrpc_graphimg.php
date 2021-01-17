@@ -39,11 +39,6 @@
           "to": "now-1h",
           "graphid": 0
       },
-      "error": {
-        "code": 0,
-        "message": null,
-        "data": null
-      },
       "id": 1,
       "auth": null
   }
@@ -53,6 +48,11 @@
       "jsonrpc": "2.0",
       "result": {
           "image": ""
+      },
+      "error": {
+        "code": 0,
+        "message": null,
+        "data": null
       },
       "id": 1
   }
